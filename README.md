@@ -54,18 +54,18 @@ Make sure the API is running on something like:
 ```text
 http://127.0.0.1:8000/api
 
-### 4. How to Set Up the Project
+## 4. How to Set Up the Project
 
 ## 4.1 Clone or download the project
-git clone <https://github.com/Manulji123/product-frontend-react.git>
+-  git clone <https://github.com/Manulji123/product-frontend-react.git>
 cd product-frontend-react
 
 ## 4.2 Install dependencies
 npm install
 
-### 5. How to Run the App
-start the React app (Fromtenf folder terminal))
+## 5. How to Run the App
+- start the React app (Fromtenf folder terminal))
 npm run dev
 
-Vite will show a local URL, usually: http://localhost:5173
-Open that URL in your browser.
+- Vite will show a local URL, usually: http://localhost:5173
+- Open that URL in your browser.
